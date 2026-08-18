@@ -1,4 +1,4 @@
-# Shopping Ditch
+# The Shopping Script
 print("Hi Eman!")
 
 shopping_schedule = int(input("Enter the timings in which you wanna do shopping (in hours): "))
