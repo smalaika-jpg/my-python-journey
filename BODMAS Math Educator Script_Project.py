@@ -1,4 +1,4 @@
-# MATH CLASS DUMB
+# BODMAS Math Educator Script
 print("Hi students!")
 greetings = input("Enter your greeting's reply: ")
 
