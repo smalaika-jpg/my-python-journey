@@ -1,4 +1,10 @@
-# --- TRAVEL TRIP ESTIMATOR PROJECT ---
+# ==============================================================================
+# PROJECT TITLE: Travel Trip Estimator Project
+# WEBSITE: Wanderlust Hub Agency
+# DESCRIPTION: A Python tool that provides travel estimates, package details,
+#              and customizable daily rates (Budget, Mid-range, Luxury) for 
+#              destinations like Maldives, Switzerland, and Santorini.
+# ==============================================================================# 
 
 print("Hi! This is your travel guide.")
 print("We offer info on Maldives, Switzerland, and Santorini.")
