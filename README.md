@@ -93,7 +93,7 @@ python-journey/
 
 Clone the repository:
 
-git clone https://github.com/smalaika-jpg/python-journey.git
+git clone https://github.com/smalaika-jpg/my-python-journey.git
 
 
 Navigate to the directory:
